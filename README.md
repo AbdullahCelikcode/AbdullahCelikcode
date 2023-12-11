@@ -6,7 +6,6 @@
 
 
 <br>
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -24,7 +23,7 @@
 <pre>
 	
 
-**Languages and Frameworks:                                                            Tools**:                                             
+**Languages and Frameworks**                                                            **Tools**                                             
     
   ![java_button_icon_151928 (4)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/114f0f42-c6a2-4f4e-a7ca-2935690051b4)                                                                       ![jetbrains_intellij_button_icon_151878 (2)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/c60aefa9-cda4-471c-a640-5098807eaec3)
   
