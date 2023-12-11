@@ -27,7 +27,7 @@
     
   ![java_button_icon_151928 (4)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/114f0f42-c6a2-4f4e-a7ca-2935690051b4)                                                                       ![jetbrains_intellij_button_icon_151878 (2)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/c60aefa9-cda4-471c-a640-5098807eaec3)
   
-  ![spri128](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/5ea6c9cf-629b-41e3-8bcf-d19517f877f5) 							  	    ![git_icon_189418](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/95117476-1821-472e-9aa0-c0fcde28cadc)
+  ![spri128](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/5ea6c9cf-629b-41e3-8bcf-d19517f877f5) 							  	     ![git_icon_189418](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/95117476-1821-472e-9aa0-c0fcde28cadc)
   <br>
   
     
