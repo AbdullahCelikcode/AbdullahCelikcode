@@ -31,7 +31,7 @@
 ## 📫 Connect with me ##  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahcelik4443)
-[![GitHub](https://img.shields.io/badge/GitHub-Email-informational?style=flat&logo=github&logoColor=white)](https://github.com/abdullah.clk@outlook.com.tr)
+[![Email](https://img.shields.io/badge/Email-Abdullah-informational?style=flat&logo=gmail&logoColor=white)](mailto:abdullah.clk@outlook.com.tr)
 
 
 
