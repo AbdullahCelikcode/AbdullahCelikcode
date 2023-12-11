@@ -30,8 +30,8 @@
 
 ## 📫 Connect with me ##  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahcelik4443)
-[![Email](https://img.shields.io/badge/Email-Abdullah-informational?style=flat&logo=gmail&logoColor=white)](mailto:abdullah.clk@outlook.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-In-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahcelik4443)
+[![Email](https://img.shields.io/badge/Email-@-informational?style=flat&logo=gmail&logoColor=white)](mailto:abdullah.clk@outlook.com.tr)
 
 
 
