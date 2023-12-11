@@ -7,11 +7,8 @@
 
 <br>
 
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 
 
 <br>
@@ -20,31 +17,29 @@
 - Currently learning Spring
 - I’m currently open for an Intern or job opportunity
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
+<pre>
+	
 
-- **Languages and Frameworks**:
+**Languages and Frameworks:                                                            Tools**:                                             
     
-  ![java_button_icon_151928 (4)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/114f0f42-c6a2-4f4e-a7ca-2935690051b4)
+  ![java_button_icon_151928 (4)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/114f0f42-c6a2-4f4e-a7ca-2935690051b4)                                                                       ![jetbrains_intellij_button_icon_151878 (2)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/c60aefa9-cda4-471c-a640-5098807eaec3)
+  
+  ![spri128](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/5ea6c9cf-629b-41e3-8bcf-d19517f877f5) 							  	    ![git_icon_189418](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/95117476-1821-472e-9aa0-c0fcde28cadc)
   <br>
-
-   ![spri128](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/5ea6c9cf-629b-41e3-8bcf-d19517f877f5)
   
     
 <br>
+</pre>
 
-- **Tools**:
 
-  ![jetbrains_intellij_button_icon_151878 (2)](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/c60aefa9-cda4-471c-a640-5098807eaec3)
+ 
   <br>
   
-  ![git_icon_189418](https://github.com/AbdullahCelikcode/AbdullahCelikcode/assets/76781045/95117476-1821-472e-9aa0-c0fcde28cadc)
-  <br>
+
 
 <br>
 
